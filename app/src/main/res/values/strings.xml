@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gokul Marbles</string>
+    <string name="app_name_kota">Gokul Kota Stones</string>
+    <string name="marbles">Marbles</string>
+    <string name="kota">Kota</string>
+    <string name="action_settings">Settings</string>
+    <string name="inch1">Inch1</string>
+    <string name="inch2">Inch2</string>
+    <string name="piece">Pieces</string>
+    <string name="feet1">Feet1</string>
+    <string name="feet2">Feet2</string>
+    <string name="total">Total</string>
+    <string name="feet">Feet</string>
+    <string name="addbutton">Add</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>

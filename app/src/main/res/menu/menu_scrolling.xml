@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.gokulmarbles.MarbleEstimatorActivity">
+
+    <item android:id="@+id/menu_toogle"
+        android:title="Selected: Marble"
+        android:icon="@android:color/holo_green_dark"
+        android:checkable="false" />
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="About"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/data"
+        android:orderInCategory="100"
+        android:title="Inch to Feet Data"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/clearTable"
+        android:orderInCategory="100"
+        android:title="Clear Table"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/grandTotalMenu"
+        android:orderInCategory="100"
+        android:title="Total:0"
+        app:showAsAction="ifRoom" />
+</menu>
